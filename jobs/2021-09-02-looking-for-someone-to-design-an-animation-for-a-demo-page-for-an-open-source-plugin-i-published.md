@@ -1,6 +1,6 @@
 ---
 _id: d267b260-0bff-11ec-9fe7-2dd5584b3048
-status: searching
+status: closed
 date_posted: '2021-09-02'
 layout: jobs
 organization: '[unpaid] Design animation for a demo of a plugin'
@@ -12,7 +12,7 @@ role: 'Graphic design, animations'
 compensation: gratis
 deliverables: ''
 how_to_apply:
-  - hello@baltcoda.com
+  - hello@****.com
   - ''
 github_handle: ''
 tags: graphic design
